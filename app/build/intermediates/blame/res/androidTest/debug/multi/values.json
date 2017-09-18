@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "C:\\Users\\SEAMFIX PC\\Desktop\\AlcLagosDeveloper\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 45,
+                    "endOffset": 96
+                },
+                "from": {
+                    "file": "C:\\Users\\SEAMFIX PC\\.android\\build-cache\\5c78b2761bb02f17c9b0e4d451c07e77c14aac0d\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 45,
+                        "endOffset": 270
+                    }
+                }
+            }
+        ]
+    }
+]

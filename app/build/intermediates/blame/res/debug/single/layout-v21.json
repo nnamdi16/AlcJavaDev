@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\SEAMFIX PC\\Desktop\\AlcLagosDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\SEAMFIX PC\\.android\\build-cache\\e15cefe30166d97321012dff3920c90c70a08928\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\SEAMFIX PC\\Desktop\\AlcLagosDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\SEAMFIX PC\\.android\\build-cache\\e15cefe30166d97321012dff3920c90c70a08928\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Users\\SEAMFIX PC\\Desktop\\AlcLagosDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\SEAMFIX PC\\.android\\build-cache\\e15cefe30166d97321012dff3920c90c70a08928\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\SEAMFIX PC\\Desktop\\AlcLagosDeveloper\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\SEAMFIX PC\\.android\\build-cache\\e15cefe30166d97321012dff3920c90c70a08928\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]

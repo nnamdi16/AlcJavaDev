@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lagos Java Developers</string>
+    <string name="action_share">Share</string>
+    <string name="action_refresh">Refresh</string>
+</resources>
